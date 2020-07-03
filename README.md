@@ -6,3 +6,5 @@ Features:
 2. Triangle rasterization
 3. Color interpolation between vertices
 4. Transforms, Scaling, Rotations
+
+(demo.PNG)
