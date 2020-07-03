@@ -7,4 +7,4 @@ Features:
 3. Color interpolation between vertices
 4. Transforms, Scaling, Rotations
 
-(demo.PNG)
+![](demo.PNG)
